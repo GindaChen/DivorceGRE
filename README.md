@@ -41,7 +41,7 @@ Github仓库不提供资源下载。虽说如此，大多数资源还是触手�
 
 ### 作者
 
-转载记得告诉我一声  ~~不跟我说就转走的，信不信我把你整个公众号/IP一口down了。~~
+转载记得告诉我一声
 
 [@GindaChen](https://github.com/GindaChen) & [@たいろきや](https://github.com/Tairokiya)
 
