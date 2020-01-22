@@ -236,3 +236,6 @@ Github仓库不提供资源下载。虽说如此，大多数资源还是触手�
 - @Kaho&Amy, @VLazarian, @LazTech：感谢LazTech！LazTech万岁！
 - [@NekoTouko](https://github.com/nekotouko)：怎么办，我要感谢你一辈子mua～
 - （继续补充 —— 要是我漏了你千万记得告诉我哦～）
+
+## Offers
+- 2020/1/21: UMich - CSE (RA) Accepted
