@@ -239,3 +239,8 @@ Github仓库不提供资源下载。虽说如此，大多数资源还是触手�
 
 ## Offers
 - 2020/1/21: UMich - CSE (RA) Accepted
+- 2020/1/29: UWMadison - CS (TA) Accepted
+- 2020/2/25: Notre Dame - Applied Math (RA) Accepted
+
+## Rejects
+- MIT,Harv,Pric
